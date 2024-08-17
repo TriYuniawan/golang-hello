@@ -1,5 +1,10 @@
 package golang_hello
 
-func SayHello() string {
-	return "17 August 2024"
+func SayHello(name string) string {
+	return " HARI KEMERDEKAAN YANG KE" + name
+
+}
+
+func main() {
+	SayHello("79")
 }
