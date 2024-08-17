@@ -1,5 +1,5 @@
 package golang_hello
 
 func SayHello() string {
-	return "this is another dependency"
+	return "17 August 2024"
 }
